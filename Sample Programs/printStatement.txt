@@ -1,0 +1,4 @@
+//Clean Program
+begin
+  print "Good afternoon";
+end

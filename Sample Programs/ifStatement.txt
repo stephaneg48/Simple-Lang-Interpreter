@@ -1,0 +1,7 @@
+//Clean Program
+begin
+  print "Good Morning";
+  
+  r = 5;
+  if (r) then print "Radius: ", r;
+end

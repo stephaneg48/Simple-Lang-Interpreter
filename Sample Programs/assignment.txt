@@ -1,0 +1,10 @@
+//Clean Program
+begin
+  print "Good Morning";
+  
+  //compute circle area and circumference
+  r = 5;
+  pi = 3.14;
+  print r;
+  print pi;
+end
